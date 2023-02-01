@@ -10,3 +10,6 @@ The Project folder has my ipynb pandas file
 To begin running this data, download the data and reference it correctly in a pandas environment
 
 The Article folder has the article my team and I wrote about our study.
+
+
+This repository shows different relationships between graduation rates and states, races, gender, and majors
